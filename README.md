@@ -4,7 +4,7 @@ Maquetación mobile first.
 
 View live: https://sarapalacioss.github.io/maquetacion
 
-![ScreenShot](https://i.ibb.co/7WfSLm1/screenshot.png)
+![ScreenShot](https://i.ibb.co/0MngqYM/Captura-de-pantalla-2021-03-19-a-las-21-34-52.png)
 
 
 ## Comenzando 🚀
