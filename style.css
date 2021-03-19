@@ -150,12 +150,12 @@ ul a {
 
 @media screen and (max-width: 400px) {
   
-  span, p {
-    font-size: small;
+  span, p, figcaption, .sub-caption{
+    font-size: medium;
   }
 
   img {
-    width: 90px;
+    width: 80px;
   }
 
   button {
@@ -204,55 +204,3 @@ ul a {
   }
 }
 
-
-@media screen and (max-width: 600px) {
-  
-  img {
-    width: 150px;
-  }
-
-  button {
-    width: 20%;
-  }
-
-  .topnav.responsive {
-    position: relative;
-  }
-
-  .topnav.responsive a.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-
-  .topnav a:not(:first-child) {
-    display: none;
-  }
-
-  .topnav a.icon {
-    float: right;
-    display: block;
-  }
-
-  .flex-grid {
-    display: flex;
-    columns: 2;
-    justify-content: space-evenly;
-  }
-
-  .col {
-    width: 22%;
-    margin: 0 0 10px 0;
-  }
-
-  .column {
-    flex: 20%;
-    max-width: 50%;
-  }
-}
