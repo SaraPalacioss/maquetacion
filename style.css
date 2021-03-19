@@ -148,16 +148,16 @@ ul a {
   width: 100%;
 }
 
-@media screen and (max-width: 350px) {
-  
+@media screen and (max-width: 400px) {
+
   span, p {
-    font-size: 15px;
+    font-size: 1.3rem;;
   }
 
-  img {
-    width: 70px;
+  figcaption{
+    font-size: 0.9rem;
   }
-
+  
   button {
     width: 18%;
   }
@@ -208,7 +208,7 @@ ul a {
 @media screen and (max-width: 600px) {
   
   img {
-    width: 150px;
+    width: 120px;
   }
 
   button {
