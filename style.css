@@ -5,7 +5,7 @@ body {
   margin: 0 auto;
 }
 
-header { 
+header {
   margin-top: 20px;
 }
 
@@ -26,6 +26,18 @@ select {
 
 img {
   width: 80%;
+}
+
+button {
+  border-radius: 50%;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+
 }
 
 footer {
@@ -137,9 +149,13 @@ ul a {
 }
 
 @media screen and (max-width: 600px) {
-
+  
   img {
     width: 150px;
+  }
+
+  button {
+    width: 20%;
   }
 
   .topnav.responsive {
@@ -177,7 +193,7 @@ ul a {
     width: 22%;
     margin: 0 0 10px 0;
   }
-  
+
   .column {
     flex: 20%;
     max-width: 50%;
