@@ -2,9 +2,9 @@
 
 Maquetación mobile first.
 
-GitHub Pages URL https://sarapalacioss.github.io/funko-hollywood-trivial/
+View live: https://sarapalacioss.github.io/maquetacion
 
-![ScreenShot](https://raw.githubusercontent.com/SaraPalacioss/funko-hollywood-trivial/main/images/screenshoot.png)
+![ScreenShot](https://i.ibb.co/7WfSLm1/screenshot.png)
 
 
 ## Comenzando 🚀
@@ -17,12 +17,7 @@ Sigue estas instrucciones para poder obtener una copia del proyecto en funcionam
 
 ## Construido con 🛠️
 
-En este proyecto se ha utilizado Vanilla Javascript y algunas herramientas para poder dar formato a los botones e imágenes:
-
-* [Funko](https://www.funko.com/) - Imágenes funko
-* [img2go](https://www.img2go.com/es/cambiar-tamano-de-imagen) - Ajuste de resolución en imágenes
-* [CSS Button Creator](https://cssbuttoncreator.com/) - Generador de diseño CSS para botones
-* [uiGradients](https://uigradients.com/) - Generador de backgrounds con gradiante
+En este proyecto se ha realizado utilizado html y css.
 
 
 ## Autor✒️
@@ -40,5 +35,5 @@ Este proyecto no está sujeto a licencia.
 * Da las gracias públicamente 🤓
 
 ---
-⌨️ con ❤️ por [sarapalacioss](https://github.com/sarapalacioss) #Ironhacker 😊
+⌨️ con ❤️ por [sarapalacioss](https://github.com/sarapalacioss)😊
 
