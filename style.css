@@ -2,7 +2,7 @@ html,
 body {
   color: rgb(183, 183, 183);
   width: 100%;
-  margin: 0 auto;
+  margin: 0 auto !;
 }
 
 header {
@@ -147,6 +147,59 @@ ul a {
   vertical-align: middle;
   width: 100%;
 }
+
+@media screen and (max-width: 400px) {
+  
+  img {
+    width: 120px;
+  }
+
+  button {
+    width: 18%;
+  }
+
+  .topnav.responsive {
+    position: relative;
+  }
+
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .topnav a:not(:first-child) {
+    display: none;
+  }
+
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+
+  .flex-grid {
+    display: flex;
+    columns: 2;
+    justify-content: space-evenly;
+  }
+
+  .col {
+    width: 20%;
+    margin: 0 0 10px 0;
+  }
+
+  .column {
+    flex: 18%;
+    max-width: 48%;
+  }
+}
+
 
 @media screen and (max-width: 600px) {
   
